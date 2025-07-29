@@ -5,3 +5,10 @@ def hello():
      
 hello()     
      
+def greet(name):
+    
+    print(f"Hello, {name}!")
+    return f"Greetings, {name}!"
+
+def add(a, b):
+    return a + b
