@@ -3,6 +3,8 @@ def hello():
     for i in range(5):
         print(i)
      
+hello()     
+     
 def greet(name):
     
     print(f"Hello, {name}!")
